@@ -13,7 +13,7 @@ pip install streamlit
 pip install mathlotlib seaborn
 ```
 
-## Rub Streamlit App
+## Run Streamlit App
 ```
 streamlit run app.py
 ```
