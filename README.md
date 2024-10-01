@@ -18,7 +18,7 @@ pip install mathlotlib seaborn
 streamlit run app.py
 ```
 
-## URL
+## URL Streamlit 
 ```
-
+https://projectaqguanyuan.streamlit.app/
 ```
