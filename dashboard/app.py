@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Load cleaned data
-df = pd.read_csv('C:/Users/Ronan/Documents/VSC/Submission/dashboard/main_data.csv')
+df = pd.read_csv('dashboard/main_data.csv')
 
 
 # Set page configuration
